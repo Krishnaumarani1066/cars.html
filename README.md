@@ -9,7 +9,7 @@
 <img src="https://th.bing.com/th/id/OIP.HOjXRsFvjvwgQMM0iYOSvAHaHW?rs=1&pid=ImgDetMain"width=200 >
 <img src="https://th.bing.com/th/id/OIP.vggFhcDaZAZ0BLI1MKgUzgHaD-?rs=1&pid=ImgDetMain">
 <p1><br>Please watch the video.....</p1>
-<p2>Hellooo, I am ranjith gs a cse student from SVCE</p2>
+<p2>Hellooo, I am  krishna l u a cse student from SVCE</p2>
 
 <br><button onclick="window.location.href='https://youtu.be/dcCm8hmD3po?si=apQ0JQBm7gct7v3Z'">click</button>
 <br><img src="https://th.bing.com/th/id/OIP.eDX2LKv95m-S-MYOjkeFUAHaFZ?rs=1&pid=ImgDetMain" alt="JAGUAR"width=500 height="300">
